@@ -7,5 +7,5 @@ it is a game build in html,css and javascript . It is really a fun game
 
 ![winning](o win's.JPG)
 
-##when the game is draw
+## when the game is draw
 ![draw](draw.JPG)
