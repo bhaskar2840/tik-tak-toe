@@ -11,3 +11,5 @@ You can play this game in your spare time.
 ## when the game is draw
 ![draw](draw.JPG)
 ---
+**How to play** 
+> open the file [index.html](index.html) for actually playing the game.
