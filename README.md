@@ -12,4 +12,5 @@ You can play this game in your spare time.
 ![draw](draw.JPG)
 ---
 **How to play** 
+https://bhaskar2840.github.io/tik-tak-toe/
 > open the file [index.html](index.html) for actually playing the game.
